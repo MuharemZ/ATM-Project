@@ -1,5 +1,0 @@
-C:\Users\muhar\Documents\ATM-Projecet\obj\Debug\net7.0\ATM-Projecet.csproj.AssemblyReference.cache
-C:\Users\muhar\Documents\ATM-Projecet\obj\Debug\net7.0\ATM-Projecet.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\muhar\Documents\ATM-Projecet\obj\Debug\net7.0\ATM-Projecet.AssemblyInfoInputs.cache
-C:\Users\muhar\Documents\ATM-Projecet\obj\Debug\net7.0\ATM-Projecet.AssemblyInfo.cs
-C:\Users\muhar\Documents\ATM-Projecet\obj\Debug\net7.0\ATM-Projecet.csproj.CoreCompileInputs.cache
