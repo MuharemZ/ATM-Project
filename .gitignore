@@ -6,6 +6,7 @@ _ReSharper.*
 bin
 obj
 packages
+ATM-Projecet.csproj
 
 # Build results
 [Dd]ebug/
